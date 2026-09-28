@@ -15,49 +15,23 @@ This project implements the assigned dashboard screens from the Figma design wit
 
 ## Screens
 
-The project includes the following five assigned screens:
-
-1. Dashboard
-2. Analytics
-3. Orders
-4. Products
-5. Customers
+The current scope includes the completed Dashboard and the Products page. Orders and Customers are reserved routes for future work and do not have screens yet.
 
 ## Features
 
 ### Dashboard
+
 - Revenue overview
 - KPI summary cards
 - Sales by channel
 - Date range selection
 - Export functionality
 
-### Analytics
-- Analytics overview
-- Performance statistics
-- Charts and data visualization
-- Historical date selection
-
-### Orders
-- Orders overview
-- Order information
-- Filters and date selection
-- Export functionality
-- Responsive order layout
-
 ### Products
-- Product overview
-- Product statistics
-- Product listing
-- Add new product functionality
-- Historical date selection
 
-### Customers
-- Customer overview
-- Customer statistics
-- Customer activity
-- Add new customer functionality
-- Historical date selection
+- Product listing with status and category filters
+- Search and selection actions
+- Add new product functionality
 
 ## Responsive Design
 
@@ -104,3 +78,4 @@ Clone the repository:
 
 ```bash
 git clone <your-repository-url>
+```
